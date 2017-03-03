@@ -1,12 +1,12 @@
 Summary:	Tool to convert Apple's compressed DMG to standard (hfsplus) disk image file
 Summary(pl.UTF-8):	Narzędzie konwertujące skompresowane pliki Apple DMG na obrazy dysków (hfsplus)
 Name:		dmg2img
-Version:	1.6.5
+Version:	1.6.7
 Release:	1
 License:	GPL v2
 Group:		Applications/File
 Source0:	http://vu1tur.eu.org/tools/%{name}-%{version}.tar.gz
-# Source0-md5:	d01b01151759dd25e16d0c37d4a57b3c
+# Source0-md5:	1f0e66285ee4a46b480f3130bc112512
 URL:		http://vu1tur.eu.org/tools/
 BuildRequires:	bzip2-devel
 BuildRequires:	openssl-devel
